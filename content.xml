@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605041424006ODC4R</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605041424001764ID</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>TÁNDEM CREATIVO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Diseño de metodologías colaborativas en proyectos reales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Francisco José Parra Palomo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>REA para alumnado de 2º del ciclo de Grado Superior en Modelismo de Indumentaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777892029599</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moopfv0u-vrazx5xdo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moopfv0u-g2ygr8kch</odePageId>
+  <odeParentPageId>page-moopfv0u-vrazx5xdo</odeParentPageId>
+  <pageName>Presentación del docente</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moopfv0u-g2ygr8kch</odePageId>
+      <odeBlockId>block-1777745288644-5nx1ewe45</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0u-g2ygr8kch</odePageId>
+          <odeBlockId>block-1777745288644-5nx1ewe45</odeBlockId>
+          <odeIdeviceId>idevice-1777737694893-pu18e8gyw</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777737694893-pu18e8gyw" title="" href="{{context_path}}/content/resources/WIN_20260427_13_13_56_Pro.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WIN_20260427_13_13_56_Pro.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777737694893-pu18e8gyw","img_0":{"img":"{{context_path}}/content/resources/WIN_20260427_13_13_56_Pro.jpg","thumbnail":"{{context_path}}/content/resources/WIN_20260427_13_13_56_Pro.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moopfv0u-g2ygr8kch</odePageId>
+      <odeBlockId>block-1777745306671-y9yqcm9pq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0u-g2ygr8kch</odePageId>
+          <odeBlockId>block-1777745306671-y9yqcm9pq</odeBlockId>
+          <odeIdeviceId>idevice-1777737494052-xh2294d8v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Buenas a tod@s,</p>
+<p>Mi nombre es Francisco José Parra Palomo, aunque normalmente me llaman Fran. Trabajo como profesor en escuelas de arte, especializado en medios informáticos. Al inscribirme en este curso, mi principal interés es descubrir nuevas formas de conectar con mi alumnado.</p>
+<p>Se trata de un grupo muy diverso, con edades que oscilan aproximadamente entre los 20 y los 70 años, lo que implica adaptarme constantemente a distintos ritmos y niveles de aprendizaje. Por ello, me resulta especialmente relevante conocer herramientas digitales accesibles que me permitan ofrecer una enseñanza más personalizada y efectiva para un alumnado tan variado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777737494052-xh2294d8v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas a tod@s,</p>\n<p>Mi nombre es Francisco José Parra Palomo, aunque normalmente me llaman Fran. Trabajo como profesor en escuelas de arte, especializado en medios informáticos. Al inscribirme en este curso, mi principal interés es descubrir nuevas formas de conectar con mi alumnado.</p>\n<p>Se trata de un grupo muy diverso, con edades que oscilan aproximadamente entre los 20 y los 70 años, lo que implica adaptarme constantemente a distintos ritmos y niveles de aprendizaje. Por ello, me resulta especialmente relevante conocer herramientas digitales accesibles que me permitan ofrecer una enseñanza más personalizada y efectiva para un alumnado tan variado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moopfv0x-3znnoo4ns</odePageId>
+  <odeParentPageId>page-moopfv0u-vrazx5xdo</odeParentPageId>
+  <pageName>Presentación del proyecto docente &quot;TANDEM CREATIVO&quot;</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto docente &quot;TANDEM CREATIVO&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto &quot;TANDEM CREATIVO&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto docente &quot;TANDEM CREATIVO&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moopfv0x-3znnoo4ns</odePageId>
+      <odeBlockId>block-1777745186204-5cbx30vs3</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0x-3znnoo4ns</odePageId>
+          <odeBlockId>block-1777745186204-5cbx30vs3</odeBlockId>
+          <odeIdeviceId>idevice-1777745186200-jbu5ikmfz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69ee52fe5f85b8dc3ec778bc " size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777749547936-xw6uc7zg6</odePageId>
+  <odeParentPageId>page-moopfv0u-vrazx5xdo</odeParentPageId>
+  <pageName>Presentación de herramientas digitales del docente</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de herramientas digitales del docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777749547936-xw6uc7zg6</odePageId>
+      <odeBlockId>block-1777749565419-zok5x5zkq</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777749547936-xw6uc7zg6</odePageId>
+          <odeBlockId>block-1777749565419-zok5x5zkq</odeBlockId>
+          <odeIdeviceId>idevice-1777749565415-vtwtz06tw</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://dotstorming.com/w/69f05c1fbc93105230af078d " size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moopfv0x-annzuh49w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS Y GARANTÍAS DIGITALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y GARANTÍAS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS Y GARANTÍAS DIGITALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS Y GARANTÍAS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moopfv0x-annzuh49w</odePageId>
+      <odeBlockId>block-1777745719481-3o7uohat4</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0x-annzuh49w</odePageId>
+          <odeBlockId>block-1777745719481-3o7uohat4</odeBlockId>
+          <odeIdeviceId>idevice-1777745719478-vivk1y6fr</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://canva.link/h7ib4t5bksgnnf1">https://canva.link/h7ib4t5bksgnnf1</a></p>
+</div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777751090662-jojlmo310</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ORGANIGRAMA TEMPORAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ORGANIGRAMA TEMPORAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777751090662-jojlmo310</odePageId>
+      <odeBlockId>block-1777751107493-xmtahwbxc</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777751090662-jojlmo310</odePageId>
+          <odeBlockId>block-1777751107493-xmtahwbxc</odeBlockId>
+          <odeIdeviceId>idevice-1777749016517-lbjjcyur1</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/69f38077b42d44e3300326c9 " size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moopfv0y-bxxreksxu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>0. INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0. INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>0. INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>0. INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moopfv0y-bxxreksxu</odePageId>
+      <odeBlockId>block-1777749777009-4ztwk1332</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0y-bxxreksxu</odePageId>
+          <odeBlockId>block-1777749777009-4ztwk1332</odeBlockId>
+          <odeIdeviceId>idevice-1777749777007-7cmoub2fy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En las próximas sesiones de trabajo nos centraremos en la organización de una actividad expositiva, concebida como una intervención dentro del calendario escolar del centro. Esta propuesta adquiere, además, una relevancia clave de cara a la futura incorporación al mercado laboral en el ámbito digital del modelismo de indumentaria.</p>
+<p>Para facilitar la adquisición progresiva de estos conocimientos, se han estructurado siete fases o sesiones de trabajo, cada una de ellas enfocada en un aspecto específico del diseño digital que requiere especial atención.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777749777007-7cmoub2fy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En las próximas sesiones de trabajo nos centraremos en la organización de una actividad expositiva, concebida como una intervención dentro del calendario escolar del centro. Esta propuesta adquiere, además, una relevancia clave de cara a la futura incorporación al mercado laboral en el ámbito digital del modelismo de indumentaria.</p>\n<p>Para facilitar la adquisición progresiva de estos conocimientos, se han estructurado siete fases o sesiones de trabajo, cada una de ellas enfocada en un aspecto específico del diseño digital que requiere especial atención.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moopfv0y-21ye7hamm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. CONTEXTOS, EQUIPOS Y CONCEPTUALIZACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. CONTEXTOS, EQUIPOS Y CONCEPTUALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. CONTEXTOS, EQUIPOS Y CONCEPTUALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. CONTEXTOS, EQUIPOS Y CONCEPTUALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moopfv0y-21ye7hamm</odePageId>
+      <odeBlockId>block-1777750717852-vr62sx0c8</odeBlockId>
+      <blockName>1. Contextos, equipos y conceptualización</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0y-21ye7hamm</odePageId>
+          <odeBlockId>block-1777750717852-vr62sx0c8</odeBlockId>
+          <odeIdeviceId>idevice-1777750717849-qtr6kd3qi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión primera sesión semanal (8h) se definirá el proyecto y su idea creativa. Para ello, se presentará la actividad — una exposición acompañada de un pase de modelos vinculado al 8M — y se organizará al alumnado en parejas de trabajo. A partir de ahí, se introducirá el concepto de diversidad femenina como eje central y se desarrollará una tormenta de ideas guiada, apoyada en la investigación de referentes visuales del ámbito de la moda, campañas y arte.</p>
+<p>Como resultado, se iniciará la elaboración de un moodboard conceptual utilizando herramientas como Pinterest y Adobe Photoshop, con el objetivo de concretar una primera propuesta visual. La sesión concluirá con la definición de la idea y la entrega de un primer moodboard.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777750717849-qtr6kd3qi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión primera sesión semanal (8h) se definirá el proyecto y su idea creativa. Para ello, se presentará la actividad — una exposición acompañada de un pase de modelos vinculado al 8M — y se organizará al alumnado en parejas de trabajo. A partir de ahí, se introducirá el concepto de diversidad femenina como eje central y se desarrollará una tormenta de ideas guiada, apoyada en la investigación de referentes visuales del ámbito de la moda, campañas y arte.</p>\n<p>Como resultado, se iniciará la elaboración de un moodboard conceptual utilizando herramientas como Pinterest y Adobe Photoshop, con el objetivo de concretar una primera propuesta visual. La sesión concluirá con la definición de la idea y la entrega de un primer moodboard.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+  <odeParentPageId>page-moopfv0y-21ye7hamm</odeParentPageId>
+  <pageName>1.1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+      <odeBlockId>block-1777748513872-k5nw3prz5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+          <odeBlockId>block-1777748513872-k5nw3prz5</odeBlockId>
+          <odeIdeviceId>idevice-1777748513867-kjpy33v6z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto propuesto está dirigido al alumnado de segundo curso del Ciclo Formativo de Grado Superior en Modelismo de Indumentaria. Los estudiantes trabajarán en parejas para desarrollar un encargo real: la creación de la identidad visual de una colección con motivo del 8 de marzo, Día Internacional de la Mujer. Esta colección tendrá visibilidad en la Escuela de Arte y Superior de Diseño San Telmo (Málaga), en el marco de una exposición prevista para 2027.</p>
+<p> </p>
+<p>La exposición se concibe como un espacio de representación de la diversidad de las mujeres, incluyendo mujeres cis, mujeres trans, mujeres racializadas, mujeres con diversidad funcional y mujeres no heterosexuales, entre otras. Su objetivo es visibilizar tanto la necesidad de una lucha conjunta por los derechos comunes, como la reivindicación de las realidades y demandas específicas de cada colectivo. Asimismo, se pretende superar el estereotipo homogéneo de mujer, rompiendo con enfoques capacitistas, racistas, cisheteronormativos, edadistas y gordófobos. </p>
+<p>La campaña, diseñada para su inauguración el 8 de marzo de 2027, llevará como título y lema “Diversas y Unidas”.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777748513867-kjpy33v6z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto propuesto está dirigido al alumnado de segundo curso del Ciclo Formativo de Grado Superior en Modelismo de Indumentaria. Los estudiantes trabajarán en parejas para desarrollar un encargo real: la creación de la identidad visual de una colección con motivo del 8 de marzo, Día Internacional de la Mujer. Esta colección tendrá visibilidad en la Escuela de Arte y Superior de Diseño San Telmo (Málaga), en el marco de una exposición prevista para 2027.</p>\n<p> </p>\n<p>La exposición se concibe como un espacio de representación de la diversidad de las mujeres, incluyendo mujeres cis, mujeres trans, mujeres racializadas, mujeres con diversidad funcional y mujeres no heterosexuales, entre otras. Su objetivo es visibilizar tanto la necesidad de una lucha conjunta por los derechos comunes, como la reivindicación de las realidades y demandas específicas de cada colectivo. Asimismo, se pretende superar el estereotipo homogéneo de mujer, rompiendo con enfoques capacitistas, racistas, cisheteronormativos, edadistas y gordófobos. </p>\n<p>La campaña, diseñada para su inauguración el 8 de marzo de 2027, llevará como título y lema “Diversas y Unidas”.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+      <odeBlockId>block-1777752670218-1msnwgibq</odeBlockId>
+      <blockName>Visionado &quot;TALLAS PARA TODES&quot;</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+          <odeBlockId>block-1777752670218-1msnwgibq</odeBlockId>
+          <odeIdeviceId>idevice-1777752670214-e83zh3bw9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777752670214-e83zh3bw9" title="TALLAS PARA TODES" href="{{context_path}}/content/resources/Captura de pantalla (1554).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1554).png" height="128" width="128" title="TALLAS PARA TODES" alt="TALLAS PARA TODES" titlelink="https://youtu.be/3ZzjdQrfp-4?si=KOwIluLxBDyd63rW" author="Antonia Larrain" authorlink="https://youtu.be/3ZzjdQrfp-4?si=KOwIluLxBDyd63rW" license="CC-BY" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777752670214-e83zh3bw9","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla (1554).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1554).png","title":"TALLAS PARA TODES","linktitle":"https://youtu.be/3ZzjdQrfp-4?si=KOwIluLxBDyd63rW","author":"Antonia Larrain","linkauthor":"https://youtu.be/3ZzjdQrfp-4?si=KOwIluLxBDyd63rW","license":"CC-BY"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+      <odeBlockId>block-1777753717795-6hksn2dpj</odeBlockId>
+      <blockName>Cuestionario</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moopfv0y-6s8tcltul</odePageId>
+          <odeBlockId>block-1777753717795-6hksn2dpj</odeBlockId>
+          <odeIdeviceId>idevice-1777753717793-iu4gntvcq</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1777753717793-iu4gntvcq" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Responde todas las preguntas del cuestionario.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1777753717793-iu4gntvcq" id="tofPMainContainer-idevice-1777753717793-iu4gntvcq">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1777753717793-iu4gntvcq">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1777753717793-iu4gntvcq" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1777753717793-iu4gntvcq">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1777753717793-iu4gntvcq"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1777753717793-iu4gntvcq">
+                    <button  id="tofPStartGame-idevice-1777753717793-iu4gntvcq" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1777753717793-iu4gntvcq">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1777753717793-iu4gntvcq">
+                    <button id="tofPCheckTest-idevice-1777753717793-iu4gntvcq" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1777753717793-iu4gntvcq" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1777753717793-iu4gntvcq" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777753717793-iu4gntvcq","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>Una mujer cisgénero es aquella cuya identidad de género coincide con el sexo asignado al nacer</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Las mujeres trans no necesitan visibilidad en la sociedad ni en la moda porque ya están suficientemente representadas.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>La orientación sexual se refiere a la atracción emocional o afectiva hacia otras personas, como en el caso de mujeres homosexuales.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>El término “mujeres racializadas” hace referencia a mujeres que pueden sufrir discriminación por su origen étnico o racial.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>La gordofobia es la discriminación hacia personas con cuerpos grandes y no tiene presencia en la industria de la moda.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Incluir mujeres de distintas edades en campañas y pasarelas ayuda a representar mejor la diversidad real de la sociedad.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Las niñas no reciben influencia de estereotipos sobre la imagen corporal o la feminidad.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>La moda actual representa de forma totalmente realista la diversidad de todas las mujeres.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>El diseño de ropa y campañas puede contribuir a una mayor inclusión social.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>En un proyecto creativo, solo es válido representar un único tipo de mujer para que sea más claro.</p>","feedback":"","suggestion":"","solution":0}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1777753717793-iu4gntvcq"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777754386594-2467eurm9</odePageId>
+  <odeParentPageId>page-moopfv0y-21ye7hamm</odeParentPageId>
+  <pageName>1.2. Actividad</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. Actividad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.2. Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777754386594-2467eurm9</odePageId>
+      <odeBlockId>block-1777754483555-53w551f3v</odeBlockId>
+      <blockName>Descripción de la Actividad. Sesión 1 (8h)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777754386594-2467eurm9</odePageId>
+          <odeBlockId>block-1777754483555-53w551f3v</odeBlockId>
+          <odeIdeviceId>idevice-1777754483550-nx4g0j4o7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como resultado de este proceso anterior ante la asimilación de contenidos relacionados con la temática expuesta, cada pareja trabajarán en la creación de un <strong>moodboard conceptual</strong> que refleje la estética, valores y tipo de diversidad femenina que desean representar en su proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777754483550-nx4g0j4o7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como resultado de este proceso anterior ante la asimilación de contenidos relacionados con la temática expuesta, cada pareja trabajarán en la creación de un <strong>moodboard conceptual</strong> que refleje la estética, valores y tipo de diversidad femenina que desean representar en su proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777754386594-2467eurm9</odePageId>
+      <odeBlockId>block-1777832835647-6hwf3m671</odeBlockId>
+      <blockName>Herramientas a utilizar</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777754386594-2467eurm9</odePageId>
+          <odeBlockId>block-1777832835647-6hwf3m671</odeBlockId>
+          <odeIdeviceId>idevice-1777832835644-9ghrsezxl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>8:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>Nos serviremos de la suit de Adobe descargarnos desde Creative cloud de Adobe el programa Adobe Photoshop.</p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777832835644-9ghrsezxl","textInfoDurationInput":"8:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>8:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>Nos serviremos de la suit de Adobe descargarnos desde Creative cloud de Adobe el programa Adobe Photoshop.</p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777754386594-2467eurm9</odePageId>
+      <odeBlockId>block-1777833337660-rjzgthq8c</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777754386594-2467eurm9</odePageId>
+          <odeBlockId>block-1777833337660-rjzgthq8c</odeBlockId>
+          <odeIdeviceId>idevice-1777833337657-1t0o0wgxp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La entrega se realizara vía classroom donde se deberán de adjuntar:</p>
+<p>- Nombre: actividad 1.2</p>
+<p>- Formatos de exportación: .psd (nativo de photoshop), pdf.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777833337657-1t0o0wgxp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La entrega se realizara vía classroom donde se deberán de adjuntar:</p>\n<p>- Nombre: actividad 1.2</p>\n<p>- Formatos de exportación: .psd (nativo de photoshop), pdf.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777833600183-6oalf04i1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. COLOR Y DESARROLLO CONCEPTUAL</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. COLOR Y DESARROLLO CONCEPTUAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. COLOR Y DESARROLLO CONCEPTUAL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777833600183-6oalf04i1</odePageId>
+      <odeBlockId>block-1777833752789-q1ad1svog</odeBlockId>
+      <blockName>2. Color y desarrollo conceptual</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777833600183-6oalf04i1</odePageId>
+          <odeBlockId>block-1777833752789-q1ad1svog</odeBlockId>
+          <odeIdeviceId>idevice-1777833752782-yj1hc3jtl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta segunda sesión se avanzará en la construcción de la identidad visual del proyecto, profundizando en los elementos que darán coherencia estética y conceptual a la propuesta. A partir del trabajo previo, el alumnado definirá una paleta cromática que refuerce la idea creativa y terminará de concretar su moodboard como base visual de referencia.</p>
+<p>Además, se desarrollará el concepto de la colección, incluyendo un nombre y una breve narrativa que explique su sentido y creativa. Como paso inicial hacia el diseño, se realizarán los primeros bocetos de bikinis, ya sea a mano o en formato digital. El resultado de la sesión será un conjunto sólido formado por el moodboard final, la paleta de color y el concepto escrito.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777833752782-yj1hc3jtl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta segunda sesión se avanzará en la construcción de la identidad visual del proyecto, profundizando en los elementos que darán coherencia estética y conceptual a la propuesta. A partir del trabajo previo, el alumnado definirá una paleta cromática que refuerce la idea creativa y terminará de concretar su moodboard como base visual de referencia.</p>\n<p>Además, se desarrollará el concepto de la colección, incluyendo un nombre y una breve narrativa que explique su sentido y creativa. Como paso inicial hacia el diseño, se realizarán los primeros bocetos de bikinis, ya sea a mano o en formato digital. El resultado de la sesión será un conjunto sólido formado por el moodboard final, la paleta de color y el concepto escrito.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777833600183-6oalf04i1</odePageId>
+      <odeBlockId>block-1777834070526-8vjkcc9ch</odeBlockId>
+      <blockName>Tutorial sobre Adobe Color</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777833600183-6oalf04i1</odePageId>
+          <odeBlockId>block-1777834070526-8vjkcc9ch</odeBlockId>
+          <odeIdeviceId>idevice-1777834070524-n5c2k0m1m</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/Adobe color.png"></p>
+<p><a href="https://www.youtube.com/watch?v=iv_3zyw9frc">https://www.youtube.com/watch?v=iv_3zyw9frc</a></p>
+<p><strong>Bibliografía:&nbsp;</strong></p>
+<p>Zalathun Learning, youtube, 8 oct 2020.&nbsp;</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777833600183-6oalf04i1</odePageId>
+      <odeBlockId>block-1777836547764-fdcue4fpq</odeBlockId>
+      <blockName>Tutorial sobre Moodboard</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777833600183-6oalf04i1</odePageId>
+          <odeBlockId>block-1777836547764-fdcue4fpq</odeBlockId>
+          <odeIdeviceId>idevice-1777836547760-1moep7z5a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p><a href="https://www.youtube.com/watch?v=vab06-0yzn8">https://www.youtube.com/watch?v=vab06-0yzn8</a></p>
+<p><strong>Bibliografía:</strong></p>
+<p>Emma Mac, youtube, 19 abril 2022,</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777836547760-1moep7z5a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p><a href=\"https://www.youtube.com/watch?v=vab06-0yzn8\">https://www.youtube.com/watch?v=vab06-0yzn8</a></p>\n<p><strong>Bibliografía:</strong></p>\n<p>Emma Mac, youtube, 19 abril 2022,</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+  <odeParentPageId>page-1777833600183-6oalf04i1</odeParentPageId>
+  <pageName>2.1. Actividad</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+      <odeBlockId>block-1777835936771-6i9pwtx76</odeBlockId>
+      <blockName>Descripción de la actividad. Sesión 2 (8h)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+          <odeBlockId>block-1777835936771-6i9pwtx76</odeBlockId>
+          <odeIdeviceId>idevice-1777835760355-joxrmi8uv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como entrega de esta actividad, el alumnado deberá presentar el <strong>moodboard finalizado</strong>, en cual debe incluir la <strong>paleta cromática</strong> definida y un breve texto con el concepto de la colección por escrito (incluyendo nombre y breve narrativa).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777835760355-joxrmi8uv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como entrega de esta actividad, el alumnado deberá presentar el <strong>moodboard finalizado</strong>, en cual debe incluir la <strong>paleta cromática</strong> definida y un breve texto con el concepto de la colección por escrito (incluyendo nombre y breve narrativa).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+      <odeBlockId>block-1777835955004-97n1am10a</odeBlockId>
+      <blockName>Herramientas a utilizar</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+          <odeBlockId>block-1777835955004-97n1am10a</odeBlockId>
+          <odeIdeviceId>idevice-1777835760355-jyys5oh5o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>8:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>Adobe Photoshop.</p>
+<p>Adobe color.</p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777835760355-jyys5oh5o","textInfoDurationInput":"8:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>8:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>Adobe Photoshop.</p>\n<p>Adobe color.</p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+      <odeBlockId>block-1777835967540-kqdxs0vhg</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777835908688-sxii7c2tg</odePageId>
+          <odeBlockId>block-1777835967540-kqdxs0vhg</odeBlockId>
+          <odeIdeviceId>idevice-1777835760355-qq7bcoqdp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La entrega se realizara vía classroom donde se deberán de adjuntar:</p>
+<p>- Nombre: actividad 2.1</p>
+<p>- Formatos de exportación: .psd (nativo de photoshop), pdf.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777835760355-qq7bcoqdp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La entrega se realizara vía classroom donde se deberán de adjuntar:</p>\n<p>- Nombre: actividad 2.1</p>\n<p>- Formatos de exportación: .psd (nativo de photoshop), pdf.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. DISEÑO RAPPORT</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. DISEÑO RAPPORT</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+      <odeBlockId>block-1777837432834-orpc1qhlh</odeBlockId>
+      <blockName>3. Diseño rapport</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+          <odeBlockId>block-1777837432834-orpc1qhlh</odeBlockId>
+          <odeIdeviceId>idevice-1777837432832-j5qzk4kho</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión el alumnado se centrará en el diseño textil, concretamente en la creación del estampado de su colección. Para ello, se introducirá el concepto de<strong> rapport </strong>o repetición de patrón, entendiendo cómo se construyen diseños continuos que pueden aplicarse a una prenda sin cortes visibles.</p>
+<p>A partir de esta base, se desarrollará el estampado utilizando herramientas digitales como Adobe Illustrator o Photoshop, realizando distintas pruebas de repetición para comprobar su funcionamiento y ajuste. El diseño de este rapport tendrá que ir orientado a la temática propuesta (diversidad femenina).</p>
+<p>Finalmente, el diseño se aplicará sobre plantillas de bikini, lo que permitirá visualizar cómo queda el patrón en la prenda. Como resultado, se obtendrá el rapport final junto con una primera aplicación sobre el diseño.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777837432832-j5qzk4kho","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión el alumnado se centrará en el diseño textil, concretamente en la creación del estampado de su colección. Para ello, se introducirá el concepto de<strong> rapport </strong>o repetición de patrón, entendiendo cómo se construyen diseños continuos que pueden aplicarse a una prenda sin cortes visibles.</p>\n<p>A partir de esta base, se desarrollará el estampado utilizando herramientas digitales como Adobe Illustrator o Photoshop, realizando distintas pruebas de repetición para comprobar su funcionamiento y ajuste. El diseño de este rapport tendrá que ir orientado a la temática propuesta (diversidad femenina).</p>\n<p>Finalmente, el diseño se aplicará sobre plantillas de bikini, lo que permitirá visualizar cómo queda el patrón en la prenda. Como resultado, se obtendrá el rapport final junto con una primera aplicación sobre el diseño.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+      <odeBlockId>block-1777837727438-ww389zcpg</odeBlockId>
+      <blockName>Como hacer un rapport</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+          <odeBlockId>block-1777837727438-ww389zcpg</odeBlockId>
+          <odeIdeviceId>idevice-1777837727432-xzwldgtan</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip2.png" /><a href="https://www.youtube.com/watch?v=z24Wyq6SUZ0">https://www.youtube.com/watch?v=z24Wyq6SUZ0</a> </p>
+<p><strong>Bibliografía:</strong></p>
+<p>Lilian Caster, youtube, 31 julio 2024.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777837727432-xzwldgtan","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /><a href=\"https://www.youtube.com/watch?v=z24Wyq6SUZ0\">https://www.youtube.com/watch?v=z24Wyq6SUZ0</a> </p>\n<p><strong>Bibliografía:</strong></p>\n<p>Lilian Caster, youtube, 31 julio 2024.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+      <odeBlockId>block-1777838728731-8u64k5h0c</odeBlockId>
+      <blockName>Diferencias entre rapport y pattern</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+          <odeBlockId>block-1777838728731-8u64k5h0c</odeBlockId>
+          <odeIdeviceId>idevice-1777838728726-70xy6f7bl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La diferencia clave está en su función dentro del diseño textil:</p>
+<p><strong>Pattern </strong>(patrón): es el diseño o motivo visual en su conjunto (por ejemplo, flores, formas geométricas, ilustraciones…). Puede existir de forma independiente, sin necesidad de repetirse.<br /><strong>Rapport:</strong> es la unidad de repetición de ese patrón, es decir, el sistema que permite que el diseño se repita de forma continua y encaje perfectamente, sin cortes ni saltos visibles.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838728726-70xy6f7bl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La diferencia clave está en su función dentro del diseño textil:</p>\n<p><strong>Pattern </strong>(patrón): es el diseño o motivo visual en su conjunto (por ejemplo, flores, formas geométricas, ilustraciones…). Puede existir de forma independiente, sin necesidad de repetirse.<br /><strong>Rapport:</strong> es la unidad de repetición de ese patrón, es decir, el sistema que permite que el diseño se repita de forma continua y encaje perfectamente, sin cortes ni saltos visibles.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+      <odeBlockId>block-1777838916942-d91hszfp9</odeBlockId>
+      <blockName>Ejemplos de rapport y pattern</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836808211-e0yujrfcp</odePageId>
+          <odeBlockId>block-1777838916942-d91hszfp9</odeBlockId>
+          <odeIdeviceId>idevice-1777838916940-tgy4o01zf</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777838916940-tgy4o01zf" title="Diversas y Unidas. Escuela de Arte San Telmo." href="{{context_path}}/content/resources/Captura de pantalla (1561).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1561).png" height="128" width="128" title="Diversas y Unidas. Escuela de Arte San Telmo." alt="Diversas y Unidas. Escuela de Arte San Telmo." titlelink="" author="Clara García" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777838916940-tgy4o01zf" title="Diversas y Unidas. Escuela de Arte San Telmo" href="{{context_path}}/content/resources/Captura de pantalla (1560).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1560).png" height="128" width="128" title="Diversas y Unidas. Escuela de Arte San Telmo" alt="Diversas y Unidas. Escuela de Arte San Telmo" titlelink="" author="Cristina García" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1777838916940-tgy4o01zf" title="Diversas y Unidas. Escuela de Arte San Telmo" href="{{context_path}}/content/resources/Captura de pantalla (1559).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1559).png" height="128" width="128" title="Diversas y Unidas. Escuela de Arte San Telmo" alt="Diversas y Unidas. Escuela de Arte San Telmo" titlelink="" author="Nazareth Villalobos" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div><div id="imageContainer_3" class="imageContainer"> <a idevice-id="idevice-1777838916940-tgy4o01zf" title="Diversas y Unidas" href="{{context_path}}/content/resources/Captura de pantalla (1558).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1558).png" height="128" width="128" title="Diversas y Unidas" alt="Diversas y Unidas" titlelink="" author="Noa Escassi" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838916940-tgy4o01zf","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla (1561).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1561).png","title":"Diversas y Unidas. Escuela de Arte San Telmo.","linktitle":"","author":"Clara García","linkauthor":"","license":"CC0"},"img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla (1560).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1560).png","title":"Diversas y Unidas. Escuela de Arte San Telmo","linktitle":"","author":"Cristina García","linkauthor":"","license":"CC0"},"img_2":{"img":"{{context_path}}/content/resources/Captura de pantalla (1559).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1559).png","title":"Diversas y Unidas. Escuela de Arte San Telmo","linktitle":"","author":"Nazareth Villalobos","linkauthor":"","license":"CC0"},"img_3":{"img":"{{context_path}}/content/resources/Captura de pantalla (1558).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1558).png","title":"Diversas y Unidas","linktitle":"","author":"Noa Escassi","linkauthor":"","license":"CC0"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777836831194-uquico5gf</odePageId>
+  <odeParentPageId>page-1777836808211-e0yujrfcp</odeParentPageId>
+  <pageName>3.1. Actividad</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Actividad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1. Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777836831194-uquico5gf</odePageId>
+      <odeBlockId>block-1777839646874-35qc7178c</odeBlockId>
+      <blockName>Descripción de la actividad. Sesión 3. (8h)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836831194-uquico5gf</odePageId>
+          <odeBlockId>block-1777839646874-35qc7178c</odeBlockId>
+          <odeIdeviceId>idevice-1777839646871-59o9yqpbn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>8:00</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>En esta tercera sesión el alumnado deberá diseñar el estampado de su colección, aplicando el concepto de rapport para crear una repetición continua del patrón. Como resultado final, se entregará el rapport terminado. </p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777839646871-59o9yqpbn","textInfoDurationInput":"8:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>8:00</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Parejas</dd></div></dl><p>En esta tercera sesión el alumnado deberá diseñar el estampado de su colección, aplicando el concepto de rapport para crear una repetición continua del patrón. Como resultado final, se entregará el rapport terminado. </p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777836831194-uquico5gf</odePageId>
+      <odeBlockId>block-1777839823357-4r1u77c6g</odeBlockId>
+      <blockName>Herramientas a utilizar</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836831194-uquico5gf</odePageId>
+          <odeBlockId>block-1777839823357-4r1u77c6g</odeBlockId>
+          <odeIdeviceId>idevice-1777839823353-6pfgkkjc1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Adobe Ilustrator o Adobe Photoshop</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777839823353-6pfgkkjc1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Adobe Ilustrator o Adobe Photoshop</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777836831194-uquico5gf</odePageId>
+      <odeBlockId>block-1777839868362-sfc8wc8vw</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836831194-uquico5gf</odePageId>
+          <odeBlockId>block-1777839868362-sfc8wc8vw</odeBlockId>
+          <odeIdeviceId>idevice-1777839868360-wwbe9nysc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La entrega se realizará vía classroom dentro de la tarea compartida.</p>
+<p>- Formatos: .psd o .ai (nativo de photoshop o ilustrator) y pdf.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777839868360-wwbe9nysc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La entrega se realizará vía classroom dentro de la tarea compartida.</p>\n<p>- Formatos: .psd o .ai (nativo de photoshop o ilustrator) y pdf.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777839985403-p46qv3h7h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. DISEÑO DE BIKINI</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. DISEÑO DE BIKINI</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777839985403-p46qv3h7h</odePageId>
+      <odeBlockId>block-1777840077682-xchnlakyo</odeBlockId>
+      <blockName>4. Diseño de bikini</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839985403-p46qv3h7h</odePageId>
+          <odeBlockId>block-1777840077682-xchnlakyo</odeBlockId>
+          <odeIdeviceId>idevice-1777840077675-9pk9vzo31</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión el alumnado se centrará en el <strong>diseño digital de los bikinis</strong>, desarrollando tanto su aspecto técnico como visual. Para ello, crearán sus propuestas en Illustrator, generando entre 2 y 3 variantes por pareja y ajustando aspectos como proporciones, cortes y estilo.</p>
+<p>Además, aplicarán el rapport definitivo a los diseños, logrando una coherencia con el estampado previamente creado. Como resultado, deberán entregar una colección base de bikinis terminada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777840077675-9pk9vzo31","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión el alumnado se centrará en el <strong>diseño digital de los bikinis</strong>, desarrollando tanto su aspecto técnico como visual. Para ello, crearán sus propuestas en Illustrator, generando entre 2 y 3 variantes por pareja y ajustando aspectos como proporciones, cortes y estilo.</p>\n<p>Además, aplicarán el rapport definitivo a los diseños, logrando una coherencia con el estampado previamente creado. Como resultado, deberán entregar una colección base de bikinis terminada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777839985403-p46qv3h7h</odePageId>
+      <odeBlockId>block-1777840363192-kp5lzn3fa</odeBlockId>
+      <blockName>Tutorial para crear bikini en Ilustrator</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839985403-p46qv3h7h</odePageId>
+          <odeBlockId>block-1777840363192-kp5lzn3fa</odeBlockId>
+          <odeIdeviceId>idevice-1777840363185-0u8ht5ldv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p><a href="https://www.youtube.com/watch?v=14TamY_8gck">https://www.youtube.com/watch?v=14TamY_8gck</a></p>
+<p><strong>Bibliografía:</strong></p>
+<p>PatternLab London. youtube, 17 abril 2024.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777840363185-0u8ht5ldv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p><a href=\"https://www.youtube.com/watch?v=14TamY_8gck\">https://www.youtube.com/watch?v=14TamY_8gck</a></p>\n<p><strong>Bibliografía:</strong></p>\n<p>PatternLab London. youtube, 17 abril 2024.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+  <odeParentPageId>page-1777839985403-p46qv3h7h</odeParentPageId>
+  <pageName>4.1 Actividad</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1 Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+      <odeBlockId>block-1777840734041-0vp1tb5m6</odeBlockId>
+      <blockName>Descripción de la actividad. Sesión 4 (8h)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+          <odeBlockId>block-1777840734041-0vp1tb5m6</odeBlockId>
+          <odeIdeviceId>idevice-1777840734035-ux3nhhx5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como entrega de esta actividad, el alumnado deberá presentar una colección base de bikinis terminada, que incluya entre 2 y 3 diseños por pareja, con el rapport aplicado y los ajustes de proporciones, cortes y estilo ya definidos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777840734035-ux3nhhx5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como entrega de esta actividad, el alumnado deberá presentar una colección base de bikinis terminada, que incluya entre 2 y 3 diseños por pareja, con el rapport aplicado y los ajustes de proporciones, cortes y estilo ya definidos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+      <odeBlockId>block-1777841045199-es46ebn87</odeBlockId>
+      <blockName>Herramientas</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+          <odeBlockId>block-1777841045199-es46ebn87</odeBlockId>
+          <odeIdeviceId>idevice-1777841045196-zhfn9s3k4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Adobe Ilustrator</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841045196-zhfn9s3k4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Adobe Ilustrator</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+      <odeBlockId>block-1777841084655-7gxwiyfkq</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777840648916-fafsfvp6o</odePageId>
+          <odeBlockId>block-1777841084655-7gxwiyfkq</odeBlockId>
+          <odeIdeviceId>idevice-1777841084653-57myve0ee</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se entragará la actividad vía classroom dentro de la tarea abierta para ello</p>
+<p>Formatos de exportación: Adobe ilustrator .ai (nativo) y pdf.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841084653-57myve0ee","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se entragará la actividad vía classroom dentro de la tarea abierta para ello</p>\n<p>Formatos de exportación: Adobe ilustrator .ai (nativo) y pdf.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. FICHA TÉCNICA</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. FICHA TÉCNICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+      <odeBlockId>block-1777841268904-l9kj7ur4o</odeBlockId>
+      <blockName>5. Ficha técnica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+          <odeBlockId>block-1777841268904-l9kj7ur4o</odeBlockId>
+          <odeIdeviceId>idevice-1777841268900-x4cf184c6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión el alumnado se centrará en la profesionalización del diseño, aprendiendo a comunicar sus propuestas de manera técnica y precisa. Para ello, se introducirá el concepto de <strong>ficha técnica de construcción</strong>, entendiendo su función dentro del ámbito profesional de la moda.</p>
+<p>A partir de esta base, elaborarán sus propias fichas en Illustrator en dos versiones: una en blanco y negro, centrada en las líneas técnicas de la prenda, y otra a color, donde se incorporarán detalles como tejidos, fornituras y acabados también llamada <strong>ficha técnica de fornituras</strong>. Además, se trabajará la normalización de elementos como tipografías, escalas y anotaciones, con el objetivo de presentar un documento claro, ordenado y profesional. Como resultado, deberán obtener fichas técnicas completas en ambas versiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841268900-x4cf184c6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión el alumnado se centrará en la profesionalización del diseño, aprendiendo a comunicar sus propuestas de manera técnica y precisa. Para ello, se introducirá el concepto de <strong>ficha técnica de construcción</strong>, entendiendo su función dentro del ámbito profesional de la moda.</p>\n<p>A partir de esta base, elaborarán sus propias fichas en Illustrator en dos versiones: una en blanco y negro, centrada en las líneas técnicas de la prenda, y otra a color, donde se incorporarán detalles como tejidos, fornituras y acabados también llamada <strong>ficha técnica de fornituras</strong>. Además, se trabajará la normalización de elementos como tipografías, escalas y anotaciones, con el objetivo de presentar un documento claro, ordenado y profesional. Como resultado, deberán obtener fichas técnicas completas en ambas versiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+      <odeBlockId>block-1777880383975-kj8iuq2f1</odeBlockId>
+      <blockName>Tutorial de como diseñar una ficha técnica.</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+          <odeBlockId>block-1777880383975-kj8iuq2f1</odeBlockId>
+          <odeIdeviceId>idevice-1777880383969-gns4cu3lk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip5.png" /></p>
+<p><a href="https://www.youtube.com/watch?v=rBSNiYZBsjQ">https://www.youtube.com/watch?v=rBSNiYZBsjQ</a> </p>
+<p><strong>Bibliografía:</strong></p>
+<p>MPonce Design, youtube, 2 de mayo de 2021.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777880383969-gns4cu3lk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip5.png\" /></p>\n<p><a href=\"https://www.youtube.com/watch?v=rBSNiYZBsjQ\">https://www.youtube.com/watch?v=rBSNiYZBsjQ</a> </p>\n<p><strong>Bibliografía:</strong></p>\n<p>MPonce Design, youtube, 2 de mayo de 2021.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+      <odeBlockId>block-1777880985307-4rp6dyk0m</odeBlockId>
+      <blockName>Ejemplos de ficha de construcción y de fornitura</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841198996-gtmuo2gsy</odePageId>
+          <odeBlockId>block-1777880985307-4rp6dyk0m</odeBlockId>
+          <odeIdeviceId>idevice-1777880985305-w2547muy6</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777880985305-w2547muy6" title="Ficha de construcción" href="{{context_path}}/content/resources/Captura de pantalla (1564).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1564).png" height="128" width="128" title="Ficha de construcción" alt="Ficha de construcción" titlelink="" author="Escuela de Arte San Telmo" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1777880985305-w2547muy6" title="Ficha de fornitura" href="{{context_path}}/content/resources/Captura de pantalla (1565).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla (1565).png" height="128" width="128" title="Ficha de fornitura" alt="Ficha de fornitura" titlelink="" author="Escuela de Arte San Telmo" authorlink="" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777880985305-w2547muy6","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla (1564).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1564).png","title":"Ficha de construcción","linktitle":"","author":"Escuela de Arte San Telmo","linkauthor":"","license":"CC0"},"img_1":{"img":"{{context_path}}/content/resources/Captura de pantalla (1565).png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla (1565).png","title":"Ficha de fornitura","linktitle":"","author":"Escuela de Arte San Telmo","linkauthor":"","license":"CC0"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777841401258-4swagmlim</odePageId>
+  <odeParentPageId>page-1777841198996-gtmuo2gsy</odeParentPageId>
+  <pageName>5.1 Actividad</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.1 Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777841401258-4swagmlim</odePageId>
+      <odeBlockId>block-1777879617463-bxwsatcyl</odeBlockId>
+      <blockName>Descripción de la actividad. Sesión 5 (8h)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841401258-4swagmlim</odePageId>
+          <odeBlockId>block-1777879617463-bxwsatcyl</odeBlockId>
+          <odeIdeviceId>idevice-1777879617461-dw9m6ha97</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta actividad el alumnado deberá presentar las <strong>fichas técnicas</strong> completas de sus diseños de bikini en dos versiones: una en blanco y negro con líneas técnicas (ficha de construcción) y otra en color con detalles, tejidos y fornituras (ficha de fornituras) la cual incluirá el tejido modo pattern (patrón) diseñado en la unidad 3.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777879617461-dw9m6ha97","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta actividad el alumnado deberá presentar las <strong>fichas técnicas</strong> completas de sus diseños de bikini en dos versiones: una en blanco y negro con líneas técnicas (ficha de construcción) y otra en color con detalles, tejidos y fornituras (ficha de fornituras) la cual incluirá el tejido modo pattern (patrón) diseñado en la unidad 3.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777841401258-4swagmlim</odePageId>
+      <odeBlockId>block-1777881186398-o4w6cvqvw</odeBlockId>
+      <blockName>Herramienta</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841401258-4swagmlim</odePageId>
+          <odeBlockId>block-1777881186398-o4w6cvqvw</odeBlockId>
+          <odeIdeviceId>idevice-1777881186397-9ft8mdvuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Adobe Ilustrator</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777881186397-9ft8mdvuf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Adobe Ilustrator</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777841401258-4swagmlim</odePageId>
+      <odeBlockId>block-1777881221909-fn6a0pbun</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841401258-4swagmlim</odePageId>
+          <odeBlockId>block-1777881221909-fn6a0pbun</odeBlockId>
+          <odeIdeviceId>idevice-1777881221908-6na34w46t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se subirá la práctica acabado a la tarea correspondiente dentro del classroom de la asignatura.</p>
+<p>Formatos: se entregará un formato nativo de adobe ilustrator con las dos fichas técnicas dentro .ai y otro en formato pdf.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777881221908-6na34w46t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se subirá la práctica acabado a la tarea correspondiente dentro del classroom de la asignatura.</p>\n<p>Formatos: se entregará un formato nativo de adobe ilustrator con las dos fichas técnicas dentro .ai y otro en formato pdf.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777881370974-jk00eaheu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. COMUNICACION GRÁFICA Y PANEL</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. COMUNICACION GRÁFICA Y PANEL</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777881370974-jk00eaheu</odePageId>
+      <odeBlockId>block-1777881430260-cdgdq1o6d</odeBlockId>
+      <blockName>Comunicación gráfica y panel</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777881370974-jk00eaheu</odePageId>
+          <odeBlockId>block-1777881430260-cdgdq1o6d</odeBlockId>
+          <odeIdeviceId>idevice-1777881430258-xw7r6lp7q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sesión el alumnado se centrará en la comunicación gráfica del proyecto, preparando los materiales necesarios para su difusión y exposición final. Para ello, diseñarán piezas como el cartel y los flyers utilizando Adobe Photoshop, cuidando tanto la estética como la coherencia con la identidad visual desarrollada en sesiones anteriores.</p>
+<p>Además, se generarán imágenes mediante herramientas de inteligencia artificial, incorporando modelos diversos que refuercen el concepto de inclusión trabajado en el proyecto. Finalmente, se realizará el montaje de un panel en formato A3, donde se integrarán los elementos más representativos del trabajo (diseños, concepto, imágenes), con el objetivo de presentar una propuesta clara, atractiva y profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777881430258-xw7r6lp7q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sesión el alumnado se centrará en la comunicación gráfica del proyecto, preparando los materiales necesarios para su difusión y exposición final. Para ello, diseñarán piezas como el cartel y los flyers utilizando Adobe Photoshop, cuidando tanto la estética como la coherencia con la identidad visual desarrollada en sesiones anteriores.</p>\n<p>Además, se generarán imágenes mediante herramientas de inteligencia artificial, incorporando modelos diversos que refuercen el concepto de inclusión trabajado en el proyecto. Finalmente, se realizará el montaje de un panel en formato A3, donde se integrarán los elementos más representativos del trabajo (diseños, concepto, imágenes), con el objetivo de presentar una propuesta clara, atractiva y profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777881370974-jk00eaheu</odePageId>
+      <odeBlockId>block-1777882946887-deeooy4eb</odeBlockId>
+      <blockName>Tutorial</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777881370974-jk00eaheu</odePageId>
+          <odeBlockId>block-1777882946887-deeooy4eb</odeBlockId>
+          <odeIdeviceId>idevice-1777882946882-60a62rqi4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip6.png" /></p>
+<p><a href="https://www.youtube.com/watch?v=L6z1E_l2yoA">https://www.youtube.com/watch?v=L6z1E_l2yoA</a></p>
+<p><strong></strong></p>
+<p><strong>Bibliografía:</strong></p>
+<p>Marco Creativo, youtube, 6 de abril 2021.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777882946882-60a62rqi4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip6.png\" /></p>\n<p><a href=\"https://www.youtube.com/watch?v=L6z1E_l2yoA\">https://www.youtube.com/watch?v=L6z1E_l2yoA</a></p>\n<p><strong></strong></p>\n<p><strong>Bibliografía:</strong></p>\n<p>Marco Creativo, youtube, 6 de abril 2021.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+  <odeParentPageId>page-1777881370974-jk00eaheu</odeParentPageId>
+  <pageName>6.1 Actividad</pageName>
+  <odeNavStructureOrder>20</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1 Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+      <odeBlockId>block-1777883515863-di6id5pww</odeBlockId>
+      <blockName>Descripción de la actividad. Sesión 8. (8h)</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+          <odeBlockId>block-1777883515863-di6id5pww</odeBlockId>
+          <odeIdeviceId>idevice-1777883515860-l1xhl4yxf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como entrega de esta sesión, el alumnado deberá presentar el panel final en formato A3 para exponer en el día de la exposición, junto con el cartel publicitario en formato vertical en A2 y el flyer diseñado, incluyendo las imágenes generadas integradas con IA de forma coherente con la propuesta visual del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777883515860-l1xhl4yxf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como entrega de esta sesión, el alumnado deberá presentar el panel final en formato A3 para exponer en el día de la exposición, junto con el cartel publicitario en formato vertical en A2 y el flyer diseñado, incluyendo las imágenes generadas integradas con IA de forma coherente con la propuesta visual del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+      <odeBlockId>block-1777885761943-eqsh3nu3v</odeBlockId>
+      <blockName>Herramienta</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+          <odeBlockId>block-1777885761943-eqsh3nu3v</odeBlockId>
+          <odeIdeviceId>idevice-1777885761942-t5lf6pvn3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Adobe Photoshop</p>
+<p>Adobe Ilustrator</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885761942-t5lf6pvn3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Adobe Photoshop</p>\n<p>Adobe Ilustrator</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+      <odeBlockId>block-1777885793123-4030eh89y</odeBlockId>
+      <blockName>Entrega</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777881402704-zerrzhbuy</odePageId>
+          <odeBlockId>block-1777885793123-4030eh89y</odeBlockId>
+          <odeIdeviceId>idevice-1777885793118-lj8l40m51</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se subirá a la plataforma classroom</p>
+<p>- Panel expositivo A3 para impresión y muestra en la exposición en formato .psd o .ai (nativos) y también en formato .PDF</p>
+<p>- Cartel publicitario formato vertical A2 en formato .psd o .ai (nativos) y también en formato .PDF</p>
+<p>- Flyer en formato .psd o .ai (nativos) y también en formato .PDF</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885793118-lj8l40m51","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se subirá a la plataforma classroom</p>\n<p>- Panel expositivo A3 para impresión y muestra en la exposición en formato .psd o .ai (nativos) y también en formato .PDF</p>\n<p>- Cartel publicitario formato vertical A2 en formato .psd o .ai (nativos) y también en formato .PDF</p>\n<p>- Flyer en formato .psd o .ai (nativos) y también en formato .PDF</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777884417822-uemv8t1ex</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. MONTAJE Y PASE DE MODELOS</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. MONTAJE Y PASE DE MODELOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777884417822-uemv8t1ex</odePageId>
+      <odeBlockId>block-1777884757760-bz35khej1</odeBlockId>
+      <blockName>7. Montaje y pase de modelos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777884417822-uemv8t1ex</odePageId>
+          <odeBlockId>block-1777884757760-bz35khej1</odeBlockId>
+          <odeIdeviceId>idevice-1777884757758-26877acwz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta última sesión el alumnado se dedicará a la presentación final del proyecto, poniendo en práctica todo el trabajo desarrollado a lo largo del proceso. En primer lugar, se realizará la impresión y el montaje de la exposición, organizando el espacio de manera coherente y atractiva para el público.</p>
+<p>A continuación, se preparará el pase de modelos, definiendo los looks que se mostrarán, el orden de salida y la narrativa del desfile para dar sentido a la colección. Tras un ensayo general, se llevará a cabo la presentación final. La sesión concluirá con una evaluación y reflexión grupal sobre el trabajo realizado, valorando tanto el proceso como el resultado obtenido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777884757758-26877acwz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta última sesión el alumnado se dedicará a la presentación final del proyecto, poniendo en práctica todo el trabajo desarrollado a lo largo del proceso. En primer lugar, se realizará la impresión y el montaje de la exposición, organizando el espacio de manera coherente y atractiva para el público.</p>\n<p>A continuación, se preparará el pase de modelos, definiendo los looks que se mostrarán, el orden de salida y la narrativa del desfile para dar sentido a la colección. Tras un ensayo general, se llevará a cabo la presentación final. La sesión concluirá con una evaluación y reflexión grupal sobre el trabajo realizado, valorando tanto el proceso como el resultado obtenido.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777884436425-ggxhaab66</odePageId>
+  <odeParentPageId>page-1777884417822-uemv8t1ex</odeParentPageId>
+  <pageName>7.1 Actividad</pageName>
+  <odeNavStructureOrder>22</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1 Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777884436425-ggxhaab66</odePageId>
+      <odeBlockId>block-1777885698209-h8gwdveba</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777884436425-ggxhaab66</odePageId>
+          <odeBlockId>block-1777885698209-h8gwdveba</odeBlockId>
+          <odeIdeviceId>idevice-1777885698201-83dr4lqlm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para superar esta actividad se evaluarán varios aspectos clave: la calidad y coherencia del montaje expositivo, la claridad en la comunicación visual del proyecto, la organización y desarrollo del pase de modelos (selección de looks, ritmo, narrativa), así como el trabajo en equipo y la implicación durante todo el proceso. También se tendrá en cuenta la capacidad de reflexión crítica, valorando cómo el alumnado analiza su propio trabajo y el aprendizaje adquirido.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885698201-83dr4lqlm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para superar esta actividad se evaluarán varios aspectos clave: la calidad y coherencia del montaje expositivo, la claridad en la comunicación visual del proyecto, la organización y desarrollo del pase de modelos (selección de looks, ritmo, narrativa), así como el trabajo en equipo y la implicación durante todo el proceso. También se tendrá en cuenta la capacidad de reflexión crítica, valorando cómo el alumnado analiza su propio trabajo y el aprendizaje adquirido.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777884458939-a831cc3ga</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. GUÍA DIDACTIVA</pageName>
+  <odeNavStructureOrder>23</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. GUÍA DIDACTIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. GUÍA DIDACTIVA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777884458939-a831cc3ga</odePageId>
+      <odeBlockId>block-1777884970723-x4rimdvvb</odeBlockId>
+      <blockName>8. CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777884458939-a831cc3ga</odePageId>
+          <odeBlockId>block-1777884970723-x4rimdvvb</odeBlockId>
+          <odeIdeviceId>idevice-1777884970721-068kvoc35</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Criterios de evaluación</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://docs.google.com/document/d/161UmGi_IRFbHuiF8VcMQiiK_WNzKElsa4wIYHWJYwWo/edit?usp=sharing">https://docs.google.com/document/d/161UmGi_IRFbHuiF8VcMQiiK_WNzKElsa4wIYHWJYwWo/edit?usp=sharing</a></p>
+</div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777884458939-a831cc3ga</odePageId>
+      <odeBlockId>block-1777884581351-k40h7hjdi</odeBlockId>
+      <blockName>8. EVALUACIÓN</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777884458939-a831cc3ga</odePageId>
+          <odeBlockId>block-1777884581351-k40h7hjdi</odeBlockId>
+          <odeIdeviceId>idevice-1777884581349-zne0zt46e</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Evaluación</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><a href="https://docs.google.com/document/d/14lF762MJ8CEcP_CJ2JKp1_QeBfQHVXsFQp8GOLgEUTU/edit?tab=t.0#heading=h.tnoo9jfc0zzq">https://docs.google.com/document/d/14lF762MJ8CEcP_CJ2JKp1_QeBfQHVXsFQp8GOLgEUTU/edit?tab=t.0#heading=h.tnoo9jfc0zzq&nbsp;</a></p>
+
+<p><br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777751832719-enraqaz84</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. WEBGRAFIA Y RECURSOS</pageName>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. WEBGRAFIA Y RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. WEBGRAFIA Y RECURSOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777751832719-enraqaz84</odePageId>
+      <odeBlockId>block-1777751845629-ej65y7j5k</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777751832719-enraqaz84</odePageId>
+          <odeBlockId>block-1777751845629-ej65y7j5k</odeBlockId>
+          <odeIdeviceId>idevice-1777748738069-hnkaeg9ew</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/parrapalomofranciscojose/tandem-creativo-para-exposicion-diversas-y-unidas-u0vmr61zmhhwwgwf" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777895774676-j1fxb04b2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10. CREDITOS</pageName>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. CREDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777895774676-j1fxb04b2</odePageId>
+      <odeBlockId>block-1777895913586-v3xp7l1hz</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777895774676-j1fxb04b2</odePageId>
+          <odeBlockId>block-1777895913586-v3xp7l1hz</odeBlockId>
+          <odeIdeviceId>idevice-1777895913584-8ph0uyklc</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">TÁNDEM CREATIVO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">REA para alumnado de 2º del ciclo de Grado Superior en Modelismo de Indumentaria</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Francisco José Parra Palomo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
